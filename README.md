@@ -1,2 +1,2 @@
 # CodigoMD
-Código del conjunto de datos para Minería de Datos
+Código del conjunto de datos, realizando Analisis descriptivo y pre-procesamiento para Minería de Datos
